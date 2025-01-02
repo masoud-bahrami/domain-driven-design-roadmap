@@ -30,7 +30,7 @@
 *   [XVIII. Level 18: Practical Tools and Checklists for DDD 🛠️✅📝](#xviii-level-18-practical-tools-and-checklists-for-ddd-️)
 *   [XIX. Tools (Optional 🧰🛠️)](#xix-tools-optional-️)
 *   [XX. Contributing](#xx-contributing)
-
+*   [Support and Appreciation](#support-and-appreciation) 
 
 
 ## Disclaimer (A Note About This Roadmap) ⚠️
@@ -1356,3 +1356,7 @@ The best tools for you will depend on your specific needs, team size, budget, an
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to contribute.
 
+
+## Support and Appreciation
+
+If you've found this repository helpful, please consider starring ⭐ it on GitHub! This helps others discover the project and shows your support for its continued development.
