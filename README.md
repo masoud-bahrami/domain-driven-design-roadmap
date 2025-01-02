@@ -965,7 +965,7 @@ While not presented as a distinct, formally named pattern in Eric Evans' "Domain
     *   **Malleability:** The code is easy to modify and adapt as the domain evolves, minimizing the risk of introducing bugs or unintended side effects.
     *   **Explorability:** The design encourages experimentation and learning, allowing developers and domain experts to explore different modeling options and refine their understanding of the domain.
 
-*   **Key Techniques for Achieving Supple Design (As Found Within "Domain-Driven Design") 🧩🌿:**
+*   **Key Techniques for Achieving Supple Design (As Found Within "DDD") 🧩🌿:**
 
     *   **Intention-Revealing Interfaces 🗣️➡️💻:** Method and class names should clearly communicate their purpose within the domain, directly supporting the Ubiquitous Language. *Example:* `order.calculateTotal()` instead of `order.process()`.
     *   **Side-Effect-Free Functions (Especially in Domain Services) ⚙️🧼:** Domain Services, where possible, should be implemented as pure functions without side effects. This enhances testability and reduces unintended consequences.
