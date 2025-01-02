@@ -3,6 +3,36 @@
 **Domain-Driven Design (DDD)** is an approach to software development that focuses on modeling software to match a real-world domain as closely as possible. This is achieved through deep domain understanding, establishing a shared language (**Ubiquitous Language**), and structuring code around domain concepts. DDD helps manage complexity in large and complex software projects by breaking them down into smaller, more manageable parts (**Bounded Contexts**).
 
 
+## Table of Contents
+
+*   [Disclaimer (A Note About This Roadmap) ⚠️](#disclaimer-a-note-about-this-roadmap-️)
+*   [Why Domain-Driven Design?🤔](#why-domain-driven-design)
+*   [Legend](#legend)
+*   [I. Pre-DDD Context for Different Roles 🧩](#i-pre-ddd-context-for-different-roles-)
+*   [II. Glossary of Terms 📖🔤 Domain Jargon Demystified](#ii-glossary-of-terms--domain-jargon-demystified)
+*   [III. Level 1: DDD Fundamentals 🌱](#iii-level-1-ddd-fundamentals--2-4-weeks)
+*   [IV. Level 2: Collaborative Modeling and Designing 🤝](#iv-level-2-collaborative-modeling-and-designing-)
+*   [V. Level 3: Strategic Design ♟️](#v-level-3-strategic-design-%EF%B8%8F-4-8-weeks)
+*   [VI. Level 4: Tactical Design and Implementation🏗️ ](#vi-level-4-tactical-design-and-implementation️--8-12-weeks️)
+*   [VII. Level 5: Architecture and DDD 🏛️🧩🏗️](#vii-level-5-architecture-and-ddd-️️)
+*   [XIII. Level 6: Domain-Driven Design with Event Sourcing and CQRS🌊💾](#xiii-level-6-domain-driven-design-with-event-sourcing-and-cqrs)
+*   [XXX. Measuring Success with DDD ✅📈](#xxx-measuring-success-with-ddd-)
+*   [IX. Level 8: DDD and Programming Paradigms 💻⚙️🧩](#ix-level-8-ddd-and-programming-paradigms-️)
+*   [X. Level 9: Advanced and Emerging Topics 🔮](#x-level-9-advanced-and-emerging-topics---ongoing)
+*   [XI. Level 10: Team Topologies and DDD 🧑‍🤝‍🧑🏢🤝](#xi-level-10-team-topologies-and-ddd-)
+*   [XII. Level 11: Strategic Analysis with Wardley Mapping and Related Techniques 🗺️📈🧭](#xii-level-11-strategic-analysis-with-wardley-mapping-and-related-techniques-️)
+*   [XIII. Level 12: Visualizing DDD: Canvases for Collaboration and Clarity 🖼️🤝](#xiii-level-12-visualizing-ddd-canvases-for-collaboration-and-clarity-️)
+*   [XIV. Level 13: Supple Design: Techniques for Evolving Domain Models 🌿🌊🔄](#xiv-level-13-supple-design-techniques-for-evolving-domain-models-)
+*   [XIV. Level 14: Breakthrough Refactoring: Refactoring Towards Deeper Insight 🚀💡](#xiv-level-14-breakthrough-refactoring-refactoring-towards-deeper-insight-)
+*   [XV. Level 15: Scaling DDD 🚀🏢](#xv-level-15-scaling-ddd-)
+*   [XVI. Level 16: Dealing with Legacy Systems in DDD 🏛️➡️🔄](#xvi-level-16-dealing-with-legacy-systems-in-ddd-️️)
+*   [XVII. Level 17: Anti-Patterns in DDD 🚫🚧 Common Mistakes to Avoid](#xvii-level-17-anti-patterns-in-ddd--common-mistakes-to-avoid)
+*   [XVIII. Level 18: Practical Tools and Checklists for DDD 🛠️✅📝](#xviii-level-18-practical-tools-and-checklists-for-ddd-️)
+*   [XIX. Tools (Optional 🧰🛠️)](#xix-tools-optional-️)
+*   [XX. Contributing](#xx-contributing)
+
+
+
 ## Disclaimer (A Note About This Roadmap) ⚠️
 
 This roadmap is a living document—a work in progress that reflects my current understanding of DDD. Think of it as a helpful guide on your DDD journey, not the absolute final word. It's designed for educational purposes, to help you grasp the core concepts and explore different techniques.
@@ -471,7 +501,7 @@ Event Sourcing and CQRS (Command Query Responsibility Segregation) are powerful 
 ---
 
 
-**XXX. Measuring Success with DDD ✅📈**
+## XXX. Measuring Success with DDD ✅📈
 
 This section discusses how to measure the success of a DDD implementation.
 
