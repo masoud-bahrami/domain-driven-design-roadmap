@@ -36,6 +36,13 @@ We welcome the following types of contributions:
 *   **Adding Exercises/Projects:** Contributing practical exercises or project ideas.
 *   **Improving the Roadmap Structure:** Suggesting better ways to organize the roadmap.
 
+## Emojies
+
+Find emojies from:
+* [Get Emoji](https://getemoji.com/)
+* [Emoji Pedia](https://emojipedia.org/)
+* [Unicode Emoji](https://unicode.org/emoji/charts/full-emoji-list.html)
+
 ## Code of Conduct
 
 Please be respectful and considerate of other contributors.
