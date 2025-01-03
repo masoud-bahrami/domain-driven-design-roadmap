@@ -255,6 +255,9 @@ This section focuses on collaborative techniques for exploring the domain, build
 
 *   **Key Concepts and Practices:**
 
+    *   **Collaborative Software Design**
+         * 📚 "Collaborative Software Design: How to Facilitate Domain Modeling Decisions" by Evelyn Van Kelle, Gien Verschatse and Kenny Bass-schwegler
+
     *   **Event Storming:** A workshop-based method for exploring complex business domains by identifying Domain Events, Aggregates, and other key concepts.
         *   🎯 Understand the different types of Event Storming (Big Picture, Process Level, Software Design).
         *   🛠️ Facilitate a simple Event Storming session for a small domain.
