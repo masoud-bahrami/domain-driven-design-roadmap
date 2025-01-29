@@ -77,6 +77,10 @@ This roadmap is a guide for learning DDD, from fundamental concepts to advanced 
 *   🛠️ Exercises/Projects (Practical Application)
 *   🎯 Focus (Key learning points for each concept)
 
+⏳ I initially included a time commitment for each selection in the roadmap. As the file has grown and the range of topics has expanded, accurately estimating the time required for each section has become increasingly challenging. In fact, estimating real-world tasks can often be cumbersome, which is one reason the no-estimate movement has gained traction.
+
+Nevertheless, I still prefer to maintain an estimation-time tag for each section. Therefore, while these tags may not always be precise, I chose not to remove them from the document.
+
 ---
 
 
