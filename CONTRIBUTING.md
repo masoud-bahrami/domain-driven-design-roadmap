@@ -1,50 +1,29 @@
-# Contributing to the DDD Roadmap
+# Contributing
 
-We welcome contributions to the DDD Roadmap! This document outlines our guidelines for contributing.
+Thank you for helping improve this roadmap. Contributions can include corrections, clearer explanations, practical examples, diagrams, exercises, and carefully selected resources.
 
-## How to Contribute
+## Principles
 
-1.  **Fork the repository.**
-2.  **Create a new branch for your changes:** `git checkout -b feature/your-feature-name`
-3.  **Make your changes.**
-4.  **Commit your changes:** Use clear and concise commit messages (see below).
-5.  **Push your changes to your fork.**
-6.  **Submit a pull request.**
+- Keep the material practical, clear, and respectful of the reader's time.
+- Distinguish core DDD concepts from complementary architecture practices and optional specializations.
+- Prefer examples grounded in business behavior over abstract definitions.
+- Avoid presenting personal interpretations as universally accepted DDD rules.
+- Do not add a resource without checking that the link works and that the resource is relevant.
+- Avoid duplicating long explanations. Link to the canonical page instead.
+- Use descriptive headings and plain Markdown. Do not use decorative emojis.
 
-## Commit Message Guidelines
+## Adding a concept
 
-Use the following format: `<type>(<scope>): <description>`
+Include a concise definition, why it matters, a concrete example, common misconceptions, and links to related concepts. Explain where the concept is useful and where it is not.
 
-*   **Type:**
-    *   `feat`: A new feature
-    *   `fix`: A bug fix
-    *   `docs`: Documentation changes
-    *   `style`: Formatting changes
-    *   `refactor`: Code/structure changes
-    *   `chore`: Other tasks
+## Adding a roadmap stage
 
-*   **Scope:** The specific part of the roadmap affected (e.g., "DDD Fundamentals," "Strategic Design," "docs").
+State the learning objective, essential concepts, a practical exercise, completion criteria, and the next step. Do not turn optional topics into mandatory prerequisites.
 
-*   **Description:** A brief summary of the changes.
+## Adding resources
 
-## Contribution Types
+Provide the title, author or speaker, resource type, URL, intended audience, and why it is worth reading or watching. If the link or details are uncertain, say so.
 
-We welcome the following types of contributions:
+## Pull requests
 
-*   **Adding Resources:** Suggesting relevant books, articles, videos, or tools.
-*   **Improving Content:** Clarifying explanations, adding examples, or correcting errors.
-*   **Adding Exercises/Projects:** Contributing practical exercises or project ideas.
-*   **Improving the Roadmap Structure:** Suggesting better ways to organize the roadmap.
-
-## Emojies
-
-Find emojies from:
-* [Get Emoji](https://getemoji.com/)
-* [Emoji Pedia](https://emojipedia.org/)
-* [Unicode Emoji](https://unicode.org/emoji/charts/full-emoji-list.html)
-
-## Code of Conduct
-
-Please be respectful and considerate of other contributors.
-
-Thank you for your contributions!
+Keep changes focused. Update navigation when adding or moving pages. Preview Markdown links and headings before submitting.
