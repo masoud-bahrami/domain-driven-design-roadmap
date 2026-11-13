@@ -1,11 +1,11 @@
-# Aggregate Design Checklist
+### Aggregate Design Checklist
 
-- [ ] State the Aggregate's business purpose.
-- [ ] Identify the Aggregate Root.
-- [ ] Identify the Entities and Value Objects inside the boundary.
-- [ ] Define the invariants that must hold at transaction completion.
-- [ ] Define business operations that enforce those invariants.
-- [ ] Model references to other Aggregates through their roots or identities.
-- [ ] Identify Domain Events emitted by meaningful state changes.
-- [ ] Check cohesion, transaction size, and contention.
-- [ ] Write tests that demonstrate the invariants.
+- [ ] State the Aggregate's business purpose and responsibility.
+- [ ] Identify the Aggregate Root that controls access to the boundary.
+- [ ] Identify the Entities and Value Objects inside the Aggregate.
+- [ ] Define the business invariants that must hold when each transaction completes.
+- [ ] Define business operations that enforce those invariants and protect valid state transitions.
+- [ ] Model references to other Aggregates through their identities, rather than large object graphs.
+- [ ] Identify Domain Events emitted by meaningful business state changes.
+- [ ] Evaluate cohesion, transaction size, loading requirements, and concurrency contention.
+- [ ] Write tests that demonstrate the invariants and verify important business scenarios.
